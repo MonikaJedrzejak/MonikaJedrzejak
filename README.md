@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MonikaJedrzejak
 - 🌱 I’m currently learning HTML/CSS/JavaScript
-
+- :house: I live and work in Wrocław
