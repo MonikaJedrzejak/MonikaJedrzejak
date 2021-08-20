@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MonikaJedrzejak
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 🌱 I’m currently learning HTML/CSS/JavaScript/React
 - :house: I live and work in Wrocław
 - ❤️ I love board games, video games, books and roller skating 
