@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MonikaJedrzejak
-- 🌱 I’m currently learning HTML/CSS/JavaScript/React
+- :computer: Stack: Python/HTML/CSS/JavaScript/React
+- :mortar_board: I’m currently learning TypeScript
 - :house: I live and work in Wrocław
-- ❤️ I love board games, video games, books and roller skating 
+- ❤️ I love board games, video games, books and mountains 
