@@ -1,4 +1,5 @@
  #### 👋 Hi, I’m @MonikaJedrzejak
+ I currently work on developing my JavaScript and React skills and learn TypeScript
  #### :computer: Technology/Tools:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,4 +17,4 @@
 #### :house: I live and work in Wrocław
 #### ❤️ I love board games, video games, books and mountains 
 #### Contact
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) monikajedrzejak93@gmail.com
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monikajedrzejak93@gmail.com)
