@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MonikaJedrzejak
-- :computer: technology/tools Python/HTML/CSS/SASS/JavaScript/React
+- :computer: technology/tools: Python/HTML/CSS/SASS/JavaScript/React
 - :house: I live and work in Wrocław
 - ❤️ I love board games, video games, books and mountains 
