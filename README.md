@@ -16,5 +16,5 @@
 ![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 #### :house: I live and work in Wrocław
 #### ❤️ I love board games, video games, books and mountains 
-#### Contact
+#### :telephone_receiver: Contact
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monikajedrzejak93@gmail.com)
